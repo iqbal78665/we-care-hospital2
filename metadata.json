@@ -1,0 +1,6 @@
+{
+  "name": "We Care Hospital",
+  "description": "A comprehensive, professional, and interactive web application for We Care Hospital featuring 12 key sections, department grids, doctor directories, interactive appointments, health blogs, and contact details with full inline-styling responsiveness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
